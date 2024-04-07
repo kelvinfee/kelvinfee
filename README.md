@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kelvinfee
+- 👋 Hi, I’m Kelvin Fellipe
 - 👀 I’m interested in study and program
 - 🌱 I’m currently learning how to create a website
 
